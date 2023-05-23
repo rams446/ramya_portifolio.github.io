@@ -1,10 +1,12 @@
 body {
-    background-image:url("img.jfif");
+    background-image:url("img2.webp");
     background-repeat: no-repeat;
     background-attachment: fixed;  
-    background-size: cover
+    background-size: 1600px ;
+
     
 }
+
 
 .container  {
     height: 150px;
